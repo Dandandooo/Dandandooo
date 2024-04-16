@@ -1,6 +1,6 @@
 # Hello! Welcome to my ReadMe
 ### Some stuff about me
-**Favorite Language:** Python <br/>
+**Favorite Language:** Python (since 2014)<br/>
 **First Language:** Lua (2013)
 
 [![Top Langs (light)](https://github-readme-stats.vercel.app/api/top-langs/?username=dandandooo&layout=compact&size_weight=0.9&count_weight=0.1&theme=ambient_gradient&bg_color=30,f25c54,f7b267#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
