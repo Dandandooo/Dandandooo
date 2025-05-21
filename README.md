@@ -1,5 +1,7 @@
 # Hello! Welcome to my ReadMe
 ### Some stuff about me
+I am a student and researcher studying at the University of Illinois at Urbana Champaign.
+
 **Favorite Language:** Python (since 2014)<br/>
 **First Language:** Lua (2013)
 
