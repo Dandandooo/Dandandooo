@@ -18,7 +18,7 @@ I am a student and researcher studying at the University of Illinois at Urbana C
 <a href="https://ziglang.org/" title="Zig"><img src="https://avatars.githubusercontent.com/u/27973237?v=4" alt="Zig" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://haskell.org" title="Haskell"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1024px-Haskell-Logo.svg.png" alt="Haskell" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
+<a href="https://haskell.org" title="Haskell"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="Haskell" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://nix.dev/" title="Nix"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" alt="Nix" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
@@ -28,9 +28,9 @@ I am a student and researcher studying at the University of Illinois at Urbana C
 ### Frameworks
 #### ML
 <a href="https://huggingface.co" title="HuggingFace"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" alt="Huggingface" width="24px" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://pytorch.org" title="PyTorch"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/992px-PyTorch_logo_icon.svg.png?20200318225611" alt="PyTorch" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://tensorflow.org" title="TensorFlow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/230px-Tensorflow_logo.svg.png?20170429160244" alt="TensorFlow" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://scikit-learn.org" title="SKLearn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png" alt="SKLearn" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
+<a href="https://pytorch.org" title="PyTorch"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
+<a href="https://tensorflow.org" title="TensorFlow"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
+<a href="https://scikit-learn.org" title="SKLearn"><img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d86935aaeb8c0b9fa1bde7_scikit-learn.png" alt="SKLearn" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://openai.com" title="SKLearn"><img src="https://img.icons8.com/m_rounded/512/FFFFFF/chatgpt.png" alt="OpenAI" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://gemini.google.com" title="Gemini"><img src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_bqzeu-300x300.png" alt="Gemini" height="24px" style="padding-right: 2px; padding-left: 2px;"></a>
 
